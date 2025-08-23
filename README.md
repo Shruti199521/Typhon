@@ -95,7 +95,7 @@ You can customize Typhon's behavior by editing the files in the `data/` director
   - data/headers.json: A list of HTTP header sets. The tool randomly chooses one for each request.
   - proxies.txt: To use proxies with the stress command, create this file in the root directory and add your proxies (format: ip:port), one per line.
 ## License
-This project is licensed under the GNU General Public License v3.0. For more details, see the full license text.
+This project is licensed under the [GNU General Public License v3.0.](LICENSE) For more details, see the full license text.
 
 ## Disclaimer
 This tool is intended for educational purposes and authorized security testing only. Using Typhon to attack networks or servers that you do not have explicit permission to test is illegal and unethical. The developer (G0odkid) assumes no liability and is not responsible for any
