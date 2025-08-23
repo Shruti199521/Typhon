@@ -25,7 +25,7 @@ This guide is for Debian-based distributions (like Ubuntu, Kali Linux).
 **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/your-username/Typhon.git](https://github.com/your-username/Typhon.git)
+git clone https://github.com/G0odKid/Typhon/
 cd Typhon
 ```
 
