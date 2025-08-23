@@ -1,6 +1,6 @@
 import threading
 
-# Save result
+# Save Result
 results = {
     #Layer 7
     "success": 0, 
@@ -21,3 +21,4 @@ origin_results = {
 }
 
 results_lock = threading.Lock()
+
